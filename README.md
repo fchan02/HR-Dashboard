@@ -6,8 +6,6 @@ In one of my projects, I used Power Query to clean up HR data and make it easier
 
 I even made a video tutorial on creating an HR analytic dashboard using an Excel file. With Power Query, I showed how to make the data clean and ready for analysis. And with Power BI, I made interactive reports and dashboards that look super cool.
 
-If you're interested in HR analytics or want to learn more about Power Query and Power BI, check out my GitHub. You'll find projects, tutorials, and other resources that show how I turn HR data into awesome visualizations.
+Feel free to reach out to me. Let's unlock the secrets hidden in HR data together and make better decisions!
 
-Got any questions or want to collaborate? Feel free to reach out to me. Let's unlock the secrets hidden in HR data together and make better decisions!
-
-Thanks for stopping by my GitHub profile, and stay tuned for more exciting projects!
+Thanks for stopping by my GitHub profile, and stay tuned for more projects!
